@@ -1,3 +1,3 @@
-1) # Titanic-Train-Dataset
-2) Exploring and Cleaning Train Titanic dataset
-3) Adding a new column #feature engeneering uing existing relating columns
+ # Titanic-Train-Dataset
+1) Exploring and Cleaning Train Titanic dataset
+2) Adding a new column #feature engeneering uing existing relating columns
